@@ -7,7 +7,7 @@ This tool restoring all(yes/no) loaded classes from JVM dump
 For first compile this tool yourself. Next launch it with argument memory dump path argument
 Output file should be like ORIGINAL_MEMORY_DUMP_FILE.bin_restored.jar
 
-# How to dump JVM
+# How to create memory dump
 
 Are you really don't know how to create memory dump wtf bro?
 
