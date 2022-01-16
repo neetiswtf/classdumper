@@ -23,7 +23,7 @@ public class Main {
         size is in bytes btw
      */
 
-    public static final long MAX_CLASS_SIZE = 25600; // aka 200 kb
+    public static final long MAX_CLASS_SIZE = 25600; // aka 25 kb
     public static int restoredClasses;
 
     public static void main(final String[] args) throws IOException {
